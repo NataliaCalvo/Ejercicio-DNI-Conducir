@@ -1,6 +1,6 @@
-# Kata FizzBuzz
+# DNI-Edad de Conducir
 
-Kata FizzBuzz con javascript y cobertura de test con jest
+Utilizando la kata Fizzbuzz como base (para evitar crear un proyecto desde cero. Recuerda solo tienes que duplicar la carpeta). Realizar lo siguiente ejercicio sin orientación a objetos o con orientación a objetos (segunda opción recomendada).
 
 ## Pre-requirement
 
